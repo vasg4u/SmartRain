@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suit name = "suit_name">
+<test name = "test_name">
+<classes>
+
+<class name = "testing.NewTest">
+
+</class>
+</classes>
+</test>
+</suit>
